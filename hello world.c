@@ -7,6 +7,6 @@ int main()
     int tree = 1;
     printf("Hello, World! \n");
     tree++;
-    getchar((()));
+    getchar();
     return 0;
 }
