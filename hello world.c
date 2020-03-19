@@ -3,12 +3,12 @@
 int main()
 {
 
-    /* æˆ‘çš„ç¬¬ä¸€ä¸ª C ç¨‹åº */
+    /* ÎÒµÄµÚÒ»¸ö C ³ÌĞò */
     int tree = 1;
     printf("Hello, World! \n");
-    printf("ä½ å¥½! \n");
+    printf("ÄãºÃ! \n");
     tree++;
-    printf("ä½ å¥½!%d \n",tree);
+    printf("ÄãºÃ!%d \n",tree);
     getchar();
     return 0;
 }
